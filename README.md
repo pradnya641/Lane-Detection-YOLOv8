@@ -21,3 +21,6 @@ Place the `best.pt` file and the unzipped `datasets` folder in the main project 
 To run prediction on a new image with the trained model, use:
 ```bash
 python predict.py
+
+### 4. Demo Video
+* **[Watch a Demo Video of the Model in Action](https://drive.google.com/file/d/1N0785btHrZKads1te5KC0S3H1hxYdbJC/view?usp=sharing)**
